@@ -1,6 +1,6 @@
 # IDS_Project
 
-This is a Sentiment analysis project made using python Jupyter. This uses the UCI dataset.
+This is a Sentiment analysis project made using python Jupyter. This uses the UCI sentiment dataset.Link for dataset is https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences
 
 # Models Used:
 
